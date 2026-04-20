@@ -1,19 +1,24 @@
-# Naveed Nazamy | AI Engineer | Career Mentor
+# AI Master 🚀 | Learn AI, Machine Learning & Azure AI
 
-## 👋 About Me
-I help people transition into AI, tech careers, and improve their skills.
+## 📌 Overview
+This repository provides a complete roadmap to learn AI, Machine Learning, and Azure AI from beginner to advanced.
 
-## 🚀 Skills
-- AI / Machine Learning
-- Azure / Cloud
-- Career Coaching
-- Python
+## 🧠 Topics Covered
+- Machine Learning
+- Deep Learning
+- NLP (Natural Language Processing)
+- Azure AI Services
+- Prompt Engineering
 
-## 💼 Services
-- 1:1 Mentoring
-- Career Coaching
-- Workshops
+## 🚀 Projects
+- AI Chatbot
+- Resume Analyzer
+- Career Recommendation System
+
+## 🎯 Who is this for?
+- Beginners in AI
+- Developers transitioning to AI
+- Career switchers
 
 ## 🔗 Connect
-- LinkedIn: (add link)
 - GitHub: https://github.com/naveed1351
